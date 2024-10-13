@@ -1,0 +1,14 @@
+## Setting up ODBC Connection for MySQL
+
+### Step 1: Install MySQL ODBC Driver
+Download and install the [MySQL ODBC Driver](https://dev.mysql.com/downloads/connector/odbc/) from the official website.
+
+### Step 2: Configure ODBC Data Source
+1. Open **ODBC Data Source Administrator** (search `ODBC` in the start menu).
+2. Click **Add** and select `MySQL ODBC Driver`.
+3. Enter the following details:
+   - **Server**: localhost
+   - **User**: root
+   - **Password**: root
+   - **Database**: test30092024
+4. Test the connection and ensure it succeeds.
