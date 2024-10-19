@@ -32,4 +32,4 @@ The data was successfully loaded into the MySQL table, as shown in the image bel
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gursimran8/SSIS.git)
